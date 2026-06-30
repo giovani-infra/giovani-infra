@@ -1,23 +1,23 @@
-Giovani Almeida Flávio
+Giovani Almeida Flávio <br>
 Infraestrutura, Cloud e DevOps.
+<br>
 
 👨‍💻 Sobre mim
 
-🐧 Linux
-🖥️ Windows Server 
-🌐 Redes
-☁️ Cloud Computing
-⚙️ Automação (PowerShell & Bash)
-🐳 Em evolução para DevOps
-
-
-
+🐧 Linux <br>
+🖥️ Windows Server <br>
+🌐 Redes <br>
+☁️ Cloud Computing <br>
+⚙️ Automação (PowerShell & Bash) <br>
+🐳 Em evolução para DevOps <br>
+<br>
 📂 Conteúdo dos Repositórios
+<br>
 
-- 📂 Laboratórios
-- ⚙️ Scripts de automação
-- 🖥️ Infraestrutura
-- ☁️ Cloud
-- 📚 Documentações
-- 🛠️ Estudos práticos
+ 📂 Laboratórios <br>
+⚙️ Scripts de automação <br> 
+🖥️ Infraestrutura <br>
+☁️ Cloud <br>
+📚 Documentações <br> 
+🛠️ Estudos práticos <br>
   
