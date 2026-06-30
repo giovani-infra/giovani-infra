@@ -1,16 +1,23 @@
-## Hi there 👋
+Giovani Almeida Flávio
+Infraestrutura, Cloud e DevOps.
 
-<!--
-**giovani-infra/giovani-infra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Sobre mim
 
-Here are some ideas to get you started:
+🐧 Linux
+🖥️ Windows Server 
+🌐 Redes
+☁️ Cloud Computing
+⚙️ Automação (PowerShell & Bash)
+🐳 Em evolução para DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+📂 Conteúdo dos Repositórios
+
+- 📂 Laboratórios
+- ⚙️ Scripts de automação
+- 🖥️ Infraestrutura
+- ☁️ Cloud
+- 📚 Documentações
+- 🛠️ Estudos práticos
+  
