@@ -1,6 +1,5 @@
-<h1> Olá, eu sou Giovani Almeida Flávio 👋 </h1>
-
-Analista de Infraestrutura | Redes | Cloud | DevOps
+<h1 align="center">Giovani Almeida Flávio 👋</h1>
+<h2 align="left">Analista de Infraestrutura | Redes | Cloud | DevOps</h2>
 
 
 
@@ -23,7 +22,8 @@ Minhas Habilidades e Expertise
 </p>
 
 <br>
-Experiência Sólida em:
+<h2 align="left">Experiência Sólida em:</h2>
+Experiência Sólida em: <br>
 
 •
 Redes corporativas e infraestrutura de TI <br>
@@ -32,22 +32,20 @@ Backup e estratégias de recuperação de dados <br>
 •
 Monitoramento proativo de ambientes <br> 
 •
-Virtualização ( VMware / Hyper-V ) <br> 
-
+Virtualização ( VMware / Hyper-V ) 
 <br>
-Atualmente, estou aprofundando conhecimentos em:
+<br>
 
+<h2 align="left">Atualmente, estou aprofundando conhecimentos em: </h2>
 •
 Cloud Computing (Azure / AWS) <br>
 •
 Automação de infraestrutura (PowerShell & Bash) <br>
 •
 DevOps (CI/CD, IaC, containers) <br> 
+<br> 
 
-
-<br>
-
-Meus Projetos e Laboratórios
+<h2 align="left">Meus Projetos e Laboratórios:</h2>
 
 •
 Laboratórios práticos (Linux, Windows, Redes e Cloud) <br>
