@@ -1,4 +1,4 @@
-Olá, eu sou Giovani Almeida Flávio 👋
+<h1> Olá, eu sou Giovani Almeida Flávio 👋 </h1>
 
 Analista de Infraestrutura | Redes | Cloud | DevOps
 
@@ -14,6 +14,8 @@ Profissional de TI com formação em Redes de Computadores e pós-graduação na
 
 Minhas Habilidades e Expertise
 <br>
+<br>
+
 <p align="center">
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,powershell,bash,linux,windows,git,github,grafana," />
